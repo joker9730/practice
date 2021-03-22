@@ -2,5 +2,6 @@
 
 int main()
 {
-    printf("HELLO WORD!")
+    printf("HELLO WORD!");
+    printf("/n");
 }
